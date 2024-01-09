@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=FFAEC9&height=260&animation=twinkling&text=welcome&desc=Luvcong's%20GitHub%20Profile%20♥&fontColor=FFFFFF&fontSize=80&fontAlignY=35&descAlignY=55)
 
 <!--
 **Luvcong/Luvcong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLuvcong&count_bg=%23FDBFD4&title_bg=%23BFAEFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+
+
 -->
